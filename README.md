@@ -20,7 +20,7 @@ This repository contains machine learning tasks for the SPBU course.
 - **Description**: Chunking and clustering of high-dimensional data using a product quantisation algorithm. We generate cluster centres by partitioning the data vectors into multiple sub-vectors and using KMeans clustering in each sub-vector space, then quantize and reconstruct the data, and finally evaluate the reconstruction error.
 - **Solution**: [hw3_product_quantization_realise.ipynb](https://github.com/guanzi96/spbu-machine-learning-tasks/blob/hw3_product_quantization/hw3_product_quantization_realise.ipynb)
 
-## Homework 3: Realisation of the product quantisation algorithm
+## Homework 5: simulated search quality
 - **Description**: This project simulates a multi-person labeling task. The goal is to explore different labeling aggregation methods, such as majority vote and Dawid-Skene, and to compare the two methods and give conclusions.
-- **Solution**: [hw3_product_quantization_realise.ipynb](https://github.com/guanzi96/spbu-machine-learning-tasks/blob/hw3_product_quantization/hw3_product_quantization_realise.ipynb)
+- **Solution**:[hm5_simulated_search_quality_assessment.ipynb](https://github.com/guanzi96/spbu-machine-learning-tasks/tree/hm5_simulated_search_quality_assessment.ipynb)
    
